@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: docs
+  resources: resume.pdf
+
+
+website:
+  title: "Example Website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: testpage.qmd
+        text: Testing
+
+format:
+  html:
+    theme: sandstone
+    mainfont: arial
+    fontsize: 1.5rem
+    fontcolor: "#9C3C27"
+    linkcolor: "#ff33f0"
+    monofont: courier new
+
+editor: visual
+
