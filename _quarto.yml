@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Example Website"
+  site-url: "https://samshafiq.github.io/example_website/"
   navbar:
     left:
       - href: index.qmd
