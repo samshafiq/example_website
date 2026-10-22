@@ -5,7 +5,7 @@ project:
 
 
 website:
-  title: "Example Website"
+  title: "Example Websites"
   site-url: "https://samshafiq.github.io/example_website/"
   navbar:
     left:
