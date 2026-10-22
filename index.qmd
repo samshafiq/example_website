@@ -24,3 +24,23 @@ To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 ```{r}
 1 + 1
 ```
+
+::: {.callout-note}
+This is a note
+:::
+
+::: {.callout-warning}
+This is a warning
+:::
+
+::: {.callout-tip}
+This is a helpful tip
+:::
+
+::: {.panel-tabset}
+## Tab 1
+Content for tab 1
+
+## Tab 2
+Content for tab 2
+:::
