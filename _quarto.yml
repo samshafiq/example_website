@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+  resources: resume.pdf
 
 
 website:
@@ -12,6 +13,8 @@ website:
         text: Home
       - href: testpage.qmd
         text: Testing
+      - href: Resume.qmd
+        text: Resume
 
 format:
   html:
